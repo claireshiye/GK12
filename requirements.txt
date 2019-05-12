@@ -1,2 +1,4 @@
+random
+math
 numpy
 matplotlib
