@@ -1,4 +1,10 @@
 random
 math
-numpy
-matplotlib
+numpy==1.16.*
+matplotlib==3.*
+mpl_toolkits
+os
+sys
+time
+itertools
+scipy
